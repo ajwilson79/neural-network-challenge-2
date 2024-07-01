@@ -1,6 +1,3 @@
-Sure, here is the content in a single markdown code block for easy copying:
-
-
 # Neural Network Attrition and Department Prediction - Module 19 Challenge
 
 This project aims to predict whether employees are likely to leave the company and which department they are best suited for using a branched neural network model. The neural network utilizes various features from the dataset to make these predictions, which can help HR in managing employee retention and department assignments.
